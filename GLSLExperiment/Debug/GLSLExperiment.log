@@ -1,0 +1,24 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  example1.cpp
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(59,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(132,52): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(138,51): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(144,53): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(150,51): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(156,63): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(156,55): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(162,56): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(168,41): warning C4244: 'argument': conversion from 'GLuint' to 'const GLfloat', possible loss of data
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(168,72): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(176,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(179,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(181,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(184,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(186,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(189,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(191,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(194,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(206,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(243,19): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\GLSLExperiment\example1.cpp(269,21): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  GLSLExperiment.vcxproj -> D:\hoc_tap\computergraphics\thuc hanh buoi 2\BTL_FUNSTORE\Debug\GLSLExperiment.exe
